@@ -82,7 +82,7 @@ setup(
     install_requires=[
         "requests",
         "pandas",
-        "sp2ts @ git+git://github.com/SheffieldSolar/sp2ts.git#sp2ts",
+        "sp2ts @ git+https://github.com/SheffieldSolar/sp2ts.git#sp2ts",
     ],
 
     # List additional groups of dependencies here (e.g. development
